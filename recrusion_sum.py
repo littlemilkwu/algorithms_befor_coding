@@ -11,3 +11,4 @@ def recrusion_sum(ls):
 
 a = [1, 2, 3, 4, 5]
 print(recrusion_sum(a))
+# new commend
