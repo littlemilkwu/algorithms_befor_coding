@@ -1,3 +1,4 @@
+# 遞迴加總陣列內容
 def recrusion_sum(ls):
     # 基本情況
     if(len(ls) == 0):    return None
